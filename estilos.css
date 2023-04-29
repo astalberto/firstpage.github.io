@@ -1,0 +1,94 @@
+#materia_2 a{
+    text-decoration: none;
+    color: rgb(253, 253, 253);
+    font-size: 20px;
+}
+#materia_2 a:hover{
+    color: rgb(19, 129, 255);
+    font-size: 23px;
+    transition: all 0.2;
+}
+body{
+    background-color: rgb(43, 131, 146);
+
+}
+#izq {height: 2%;
+            width: 2%;
+        }
+#regreso {
+height: 10px;
+width: 10px;}
+#materia{ 
+    background-color: rgb(223, 69, 69);
+    margin: auto;
+    height:100%;
+    width:60%;
+    margin:CENTER  ;
+    margin-top:10%;
+    text-align:center;
+    
+    }
+#escudo { height: 250px;
+    width: 250px;
+    margin-top: auto;
+    
+}
+#titulo {
+text-align: center;}
+#m1_icons {height: 12%;
+    width: 12%;}
+#m1_icons_2 {height: 25%;
+    width: 25%;}
+#m2_icons {height: 10%;
+width: 10%;}
+#data {height: 40%;
+width: 50%;}
+#dt {margin-left: 12%;}
+#tabla {border: solid, 1px;
+    width: 100%;
+    border-color: black;
+    border-collapse: collapse;}
+#tabla tr {border: solid 1px;
+            text-align: center;
+            padding: .5em;}
+#tabla td {border: solid 1px;}
+#top {background-color: rgb(61, 81, 255);}
+#ST {color: rgb(0, 216, 216);}
+#seven {color: blue;
+font-size: 75px;}
+#tree {color: rgb(255, 238, 0);}
+#row_one {background: rgba(0, 255, 191, 0.315);}
+#row_two {background: rgba(128, 255, 0, 0.473);}
+#row_three {background: rgba(255, 174, 0, 0.493);}
+#up1 {background-color: rgba(0, 255, 242, 0.534);}
+#up2{background-color: rgba(250, 229, 36, 0.582);}
+#dn1{background-color: rgba(252, 61, 61, 0.616);}
+#dn2{background-color: rgba(113, 54, 250, 0.507);}
+#col_c1 {background-color: tomato;}
+
+
+#col_c1_Blanco  {background-color:white ;}
+#col_c1_Plateado{background-color:silver ;}
+#col_c1_Gris{background-color:grey ;}
+#col_c1_Amarillo{background-color:yellow ;}
+#col_c1_Dorado{background-color:gold ;}
+#col_c1_Naranja{background-color:orange ;}
+#col_c1_Rojo{background-color:red ;}
+#col_c1_Purpura{background-color:purple ;}
+#col_c1_Azul{background-color:blue ;}
+#col_c1_Anil{background-color:indigo ;}
+#col_c1_Verde{background-color:green ;}
+#col_c1_Negro{background-color:black ;}
+#bgnv {background-color: rgb(141, 23, 8);}
+#cuadro1{background-color:rgb(255, 188, 2) ;}
+#cuadro2{background-color:rgb(191, 224, 0) ;}
+#cuadro3{background-color:rgb(56, 199, 0) ;}
+#cuadro4{background-color:rgb(0, 194, 81) ;}
+#cuadro5{background-color:rgb(3, 128, 211) ;}
+#cuadro11_1{background-image: url(media/cuadro1.png);}
+#cuadro11_2{background-image: url(media/cuadro2.png);}
+#cuadro11_3{background-image: url(media/cuadro3.png);}
+#cuadro11_4{background-image: url(media/cuadro4.png);}
+#cuadro11_5{background-image: url(media/cuadro5.png);}
+#cuadro11_6{background-image: url(media/cuadro6.png);}
+#cuadro11_7{background-image: url(media/cuadro7.png);}
